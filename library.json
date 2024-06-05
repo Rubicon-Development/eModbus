@@ -35,11 +35,6 @@
       "name": "ESPAsyncTCP",
       "version": "*",
       "platforms": ["espressif8266"]
-    },
-    {
-      "name": "Ethernet",
-      "version": "https://github.com/arduino-libraries/Ethernet.git",
-      "platforms": ["espressif32"]
     }
   ],
   "export": {
