@@ -26,15 +26,9 @@
   "dependencies": [
     {
       "owner": "me-no-dev",
-      "name": "AsyncTCP",
+      "name": "AsyncTCP-esphome",
       "version": "*",
       "platforms": ["espressif32"]
-    },
-    {
-      "owner": "me-no-dev",
-      "name": "ESPAsyncTCP",
-      "version": "*",
-      "platforms": ["espressif8266"]
     }
   ],
   "export": {
