@@ -24,12 +24,7 @@
     "branch": "master"
   },
   "dependencies": [
-    {
-      "owner": "me-no-dev",
-      "name": "AsyncTCP-esphome",
-      "version": "*",
-      "platforms": ["espressif32"]
-    }
+  
   ],
   "export": {
     "include":
