@@ -24,23 +24,7 @@
     "branch": "master"
   },
   "dependencies": [
-    {
-      "owner": "ESP32Async",
-      "name": "AsyncTCP",
-      "version": "^3.3.8",
-      "platforms": ["espressif32"]
-    },
-    {
-      "owner": "ESP32Async",
-      "name": "ESPAsyncTCP",
-      "version": "^2.0.0",
-      "platforms": ["espressif8266"]
-    },
-    {
-      "name": "Ethernet",
-      "version": "https://github.com/arduino-libraries/Ethernet.git",
-      "platforms": ["espressif32"]
-    }
+
   ],
   "export": {
     "include":
